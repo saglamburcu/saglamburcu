@@ -10,30 +10,30 @@ I'm Jr. Software Developer in Izmir, Turkey. I am interested in Frontend Web Dev
 ### 📩 Connect with me:
 
 <a href="https://in.linkedin.com/in/burcuusaglam/">
-<img align="left" style="margin-right: 3px" alt="developer" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+<img align="left" alt="linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 
 <a href="mailto:saglam-burcu@hotmail.com">
-<img align="left" alt="developer" width="22px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />
+<img align="left" alt="mail" width="22px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />
 </a>
 
 <br>
 <br>
 
 ### 🔧 Languages and Tools:
-<code><img align="left" style="margin-right: 3px; margin-top: 6px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img style="margin-top: 6px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<code><img align="left" style="margin-right: 3px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-<code><img align="left" style="margin-right: 3px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-<code><img align="left" style="margin-right: 3px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<code><img align="left" style="margin-right: 3px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-<code><img align="left" style="margin-right: 3px"  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-<code><img height="20" style="margin-right: 3px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 <br>
 
